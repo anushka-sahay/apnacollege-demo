@@ -1,4 +1,7 @@
 # apnacollege-demo
+
 This is my first Git Repository.
 <br>
-Author - Anushka Sahay
+Author - Anushka (Apna College)
+
+
